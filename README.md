@@ -1,2 +1,4 @@
 # FinalThesis
-Final thesis stuff for my degree
+A research-based focusing on the topic Process Mining in Healthcare. 
+
+On Going
