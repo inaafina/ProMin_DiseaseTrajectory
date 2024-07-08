@@ -1,4 +1,4 @@
-# FinalThesis
-A research-based focusing on the topic Process Mining in Healthcare. 
+# Process Mining Sisease Trajectory 
+A research-based focusing on the topic of Process Mining in Healthcare. 
 
-On Going
+*On Going*
