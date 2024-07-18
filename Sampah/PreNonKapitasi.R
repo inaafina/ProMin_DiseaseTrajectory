@@ -10,12 +10,12 @@ preprocess_fktp_non_kapitasi_1516 <- function(file_path) {
   print("Column names and types for FKTP Non Kapitasi 1516:")
   print(str(data)) # Print structure of the data
   filtered_data <- data %>%
-    select(PSTV01, PNK03, PNK05, PNK13, PNK14) %>%
-    rename(start_date = PNK03, complete_date = PNK05, diagnosis_code = PNK13, diagnosis_name = PNK14) %>%
+    select(PSTV01, PNK02, PNK03, PNK05, PNK13, PNK14) %>%
+    rename(visit_id = PNK02, visit_date = PNK03, discharge_date = PNK05, diagnosis_code = PNK13, diagnosis_name = PNK14) %>%
     mutate(event_type = "FKTP Non-Kapitasi") %>%
     mutate(
-      start_date = as.Date(start_date, format = "%d%b%Y"),
-      complete_date = as.Date(complete_date, format = "%d%b%Y")
+      visit_date = as.Date(visit_date, format = "%d%b%Y"),
+      discharge_date = as.Date(discharge_date, format = "%d%b%Y")
     )
   print("Filtered data FKTP Non Kapitasi 1516:")
   print(str(filtered_data)) # Print structure of the filtered data
@@ -28,12 +28,12 @@ preprocess_fktp_non_kapitasi_1718_1920 <- function(file_path) {
   print("Column names and types for FKTP Non Kapitasi 1718 and 1920:")
   print(str(data)) # Print structure of the data
   filtered_data <- data %>%
-    select(PSTV01, PNK03, PNK05, PNK13A, PNK15) %>%
-    rename(start_date = PNK03, complete_date = PNK05, diagnosis_code = PNK13A, diagnosis_name = PNK15) %>%
+    select(PSTV01, PNK02, PNK03, PNK05, PNK13A, PNK14) %>%
+    rename(visit_id = PNK02, visit_date = PNK03, discharge_date = PNK05, diagnosis_code = PNK13A, diagnosis_name = PNK14) %>%
     mutate(event_type = "FKTP Non-Kapitasi") %>%
     mutate(
-      start_date = as.Date(start_date, format = "%Y-%m-%d"),  # Assuming the date format is correct here
-      complete_date = as.Date(complete_date, format = "%Y-%m-%d")
+      visit_date = as.Date(visit_date, format = "%Y-%m-%d"),  # Assuming the date format is correct here
+      discharge_date = as.Date(discharge_date, format = "%Y-%m-%d")
     )
   print("Filtered data FKTP Non Kapitasi 1718 and 1920:")
   print(str(filtered_data)) # Print structure of the filtered data
@@ -63,7 +63,7 @@ combined_fktp_non_kapitasi <- bind_rows(
 )
 
 #check combined data structure
-print("Combined data FKTP Non Kapitasi:")
+print("Combined data FKTP Non ")
 print(combined_fktp_non_kapitasi)
 
 # Print summary of combined data to verify
@@ -72,7 +72,7 @@ print(summary(combined_fktp_non_kapitasi))
 
 # Check for missing timestamps and handle them if necessary
 combined_fktp_non_kapitasi <- combined_fktp_non_kapitasi %>%
-  filter(!is.na(start_date) & !is.na(complete_date))
+  filter(!is.na(visit_date) & !is.na(discharge_date))
 
 # Save the combined dataset
 write_csv(combined_fktp_non_kapitasi, "combined_fktp_non_kapitasi.csv")
