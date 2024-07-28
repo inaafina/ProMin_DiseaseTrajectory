@@ -1,0 +1,1404 @@
+﻿diagnosis_code,diagnosis_category
+A00,Intestinal infectious diseases
+A01,Intestinal infectious diseases
+A02,Intestinal infectious diseases
+A03,Intestinal infectious diseases
+A04,Intestinal infectious diseases
+A05,Intestinal infectious diseases
+A06,Intestinal infectious diseases
+A07,Intestinal infectious diseases
+A08,Intestinal infectious diseases
+A09,Intestinal infectious diseases
+A10,Intestinal infectious diseases
+A11,Intestinal infectious diseases
+A12,Intestinal infectious diseases
+A13,Intestinal infectious diseases
+A14,Intestinal infectious diseases
+A15,Tuberculosis
+A16,Tuberculosis
+A17,Tuberculosis
+A18,Tuberculosis
+A19,Tuberculosis
+A20,Certain zoonotic bacterial diseases
+A21,Certain zoonotic bacterial diseases
+A22,Certain zoonotic bacterial diseases
+A23,Certain zoonotic bacterial diseases
+A24,Certain zoonotic bacterial diseases
+A25,Certain zoonotic bacterial diseases
+A26,Certain zoonotic bacterial diseases
+A27,Certain zoonotic bacterial diseases
+A28,Certain zoonotic bacterial diseases
+A29,Other protozoal diseases
+A30,Other bacterial diseases
+A31,Other bacterial diseases
+A32,Other bacterial diseases
+A33,Other bacterial diseases
+A34,Other bacterial diseases
+A35,Other bacterial diseases
+A36,Other bacterial diseases
+A37,Other bacterial diseases
+A38,Other bacterial diseases
+A39,Other bacterial diseases
+A40,Other bacterial diseases
+A41,Other bacterial diseases
+A42,Other bacterial diseases
+A43,Other bacterial diseases
+A44,Other bacterial diseases
+A45,Other bacterial diseases
+A46,Other bacterial diseases
+A47,Other bacterial diseases
+A48,Other bacterial diseases
+A49,Other bacterial diseases
+A50,Infections with a predominantly sexual mode of transmission
+A51,Infections with a predominantly sexual mode of transmission
+A52,Infections with a predominantly sexual mode of transmission
+A53,Infections with a predominantly sexual mode of transmission
+A54,Infections with a predominantly sexual mode of transmission
+A55,Infections with a predominantly sexual mode of transmission
+A56,Infections with a predominantly sexual mode of transmission
+A57,Infections with a predominantly sexual mode of transmission
+A58,Infections with a predominantly sexual mode of transmission
+A59,Infections with a predominantly sexual mode of transmission
+A60,Infections with a predominantly sexual mode of transmission
+A61,Infections with a predominantly sexual mode of transmission
+A62,Infections with a predominantly sexual mode of transmission
+A63,Infections with a predominantly sexual mode of transmission
+A64,Infections with a predominantly sexual mode of transmission
+A65,Other spirochaetal diseases
+A66,Other spirochaetal diseases
+A67,Other spirochaetal diseases
+A68,Other spirochaetal diseases
+A69,Other spirochaetal diseases
+A70,Other diseases caused by chlamydiae
+A71,Other diseases caused by chlamydiae
+A72,Other diseases caused by chlamydiae
+A73,Other diseases caused by chlamydiae
+A74,Other diseases caused by chlamydiae
+A75,Rickettsioses
+A76,Rickettsioses
+A77,Rickettsioses
+A78,Rickettsioses
+A79,Rickettsioses
+A80,Viral infections of the central nervous system
+A81,Viral infections of the central nervous system
+A82,Viral infections of the central nervous system
+A83,Viral infections of the central nervous system
+A84,Viral infections of the central nervous system
+A85,Viral infections of the central nervous system
+A86,Viral infections of the central nervous system
+A87,Viral infections of the central nervous system
+A88,Viral infections of the central nervous system
+A89,Viral infections of the central nervous system
+A90,Dengue and Chikungunya virus diseases
+A91,Dengue and Chikungunya virus diseases
+A92,Arthropod-borne viral fevers and viral haemorrhagic fevers
+A93,Arthropod-borne viral fevers and viral haemorrhagic fevers
+A94,Arthropod-borne viral fevers and viral haemorrhagic fevers
+A95,Arthropod-borne viral fevers and viral haemorrhagic fevers
+A96,Arthropod-borne viral fevers and viral haemorrhagic fevers
+A97,Arthropod-borne viral fevers and viral haemorrhagic fevers
+A98,Arthropod-borne viral fevers and viral haemorrhagic fevers
+A99,Arthropod-borne viral fevers and viral haemorrhagic fevers
+B00,Viral infections characterized by skin and mucous membrane lesions
+B01,Viral infections characterized by skin and mucous membrane lesions
+B02,Viral infections characterized by skin and mucous membrane lesions
+B03,Viral infections characterized by skin and mucous membrane lesions
+B04,Viral infections characterized by skin and mucous membrane lesions
+B05,Viral infections characterized by skin and mucous membrane lesions
+B06,Viral infections characterized by skin and mucous membrane lesions
+B07,Viral infections characterized by skin and mucous membrane lesions
+B08,Viral infections characterized by skin and mucous membrane lesions
+B09,Viral infections characterized by skin and mucous membrane lesions
+B10,Intestinal parasitoses
+B11,Intestinal parasitoses
+B12,Intestinal parasitoses
+B13,Intestinal parasitoses
+B14,Intestinal parasitoses
+B15,Viral hepatitis
+B16,Viral hepatitis
+B17,Viral hepatitis
+B18,Viral hepatitis
+B19,Viral hepatitis
+B20,Human immunodeficiency virus [HIV] disease
+B21,Human immunodeficiency virus [HIV] disease
+B22,Human immunodeficiency virus [HIV] disease
+B23,Human immunodeficiency virus [HIV] disease
+B24,Human immunodeficiency virus [HIV] disease
+B25,Other viral diseases
+B26,Other viral diseases
+B27,Other viral diseases
+B28,Other viral diseases
+B29,Other viral diseases
+B30,Other viral diseases
+B31,Other viral diseases
+B32,Other viral diseases
+B33,Other viral diseases
+B34,Other viral diseases
+B35,Mycoses
+B36,Mycoses
+B37,Mycoses
+B38,Mycoses
+B39,Mycoses
+B40,Mycoses
+B41,Mycoses
+B42,Mycoses
+B43,Mycoses
+B44,Mycoses
+B45,Mycoses
+B46,Mycoses
+B47,Mycoses
+B48,Mycoses
+B49,Mycoses
+B50,Protozoal diseases
+B51,Protozoal diseases
+B52,Protozoal diseases
+B53,Protozoal diseases
+B54,Protozoal diseases
+B55,Protozoal diseases
+B56,Protozoal diseases
+B57,Protozoal diseases
+B58,Protozoal diseases
+B59,Protozoal diseases
+B60,Protozoal diseases
+B61,Protozoal diseases
+B62,Protozoal diseases
+B63,Protozoal diseases
+B64,Protozoal diseases
+B65,Helminthiases
+B66,Helminthiases
+B67,Helminthiases
+B68,Helminthiases
+B69,Helminthiases
+B70,Helminthiases
+B71,Helminthiases
+B72,Helminthiases
+B73,Helminthiases
+B74,Helminthiases
+B75,Helminthiases
+B76,Helminthiases
+B77,Helminthiases
+B78,Helminthiases
+B79,Helminthiases
+B80,Helminthiases
+B81,Helminthiases
+B82,Helminthiases
+B83,Helminthiases
+B84,Unspecified helminthiasis
+B85,"Pediculosis, acariasis and other infestations"
+B86,"Pediculosis, acariasis and other infestations"
+B87,"Pediculosis, acariasis and other infestations"
+B88,"Pediculosis, acariasis and other infestations"
+B89,"Pediculosis, acariasis and other infestations"
+B90,Sequelae of infectious and parasitic diseases
+B91,Sequelae of infectious and parasitic diseases
+B90,Sequelae of infectious and parasitic diseases
+B91,Sequelae of infectious and parasitic diseases
+B92,Sequelae of infectious and parasitic diseases
+B93,Sequelae of infectious and parasitic diseases
+B94,Sequelae of infectious and parasitic diseases
+B95,"Bacterial, viral and other infectious agents"
+B96,"Bacterial, viral and other infectious agents"
+B97,"Bacterial, viral and other infectious agents"
+B98,"Bacterial, viral and other infectious agents"
+B99,Other infectious diseases
+C00,"Malignant neoplasms of lip, oral cavity and pharynx"
+C01,"Malignant neoplasms of lip, oral cavity and pharynx"
+C02,"Malignant neoplasms of lip, oral cavity and pharynx"
+C03,"Malignant neoplasms of lip, oral cavity and pharynx"
+C04,"Malignant neoplasms of lip, oral cavity and pharynx"
+C05,"Malignant neoplasms of lip, oral cavity and pharynx"
+C06,"Malignant neoplasms of lip, oral cavity and pharynx"
+C07,"Malignant neoplasms of lip, oral cavity and pharynx"
+C08,"Malignant neoplasms of lip, oral cavity and pharynx"
+C09,"Malignant neoplasms of lip, oral cavity and pharynx"
+C10,"Malignant neoplasms of lip, oral cavity and pharynx"
+C11,"Malignant neoplasms of lip, oral cavity and pharynx"
+C12,"Malignant neoplasms of lip, oral cavity and pharynx"
+C13,"Malignant neoplasms of lip, oral cavity and pharynx"
+C14,"Malignant neoplasms of lip, oral cavity and pharynx"
+C15,Malignant neoplasms of digestive organs
+C16,Malignant neoplasms of digestive organs
+C17,Malignant neoplasms of digestive organs
+C18,Malignant neoplasms of digestive organs
+C19,Malignant neoplasms of digestive organs
+C20,Malignant neoplasms of digestive organs
+C21,Malignant neoplasms of digestive organs
+C22,Malignant neoplasms of digestive organs
+C23,Malignant neoplasms of digestive organs
+C24,Malignant neoplasms of digestive organs
+C25,Malignant neoplasms of digestive organs
+C26,Malignant neoplasms of digestive organs
+C27,Malignant neoplasms of other and ill-defined sites
+C28,Malignant neoplasms of other and unspecified urinary organs
+C29,Malignant neoplasms of other and unspecified male genital organs
+C30,Malignant neoplasms of respiratory and intrathoracic organs
+C31,Malignant neoplasms of respiratory and intrathoracic organs
+C32,Malignant neoplasms of respiratory and intrathoracic organs
+C33,Malignant neoplasms of respiratory and intrathoracic organs
+C34,Malignant neoplasms of respiratory and intrathoracic organs
+C35,Malignant neoplasms of respiratory and intrathoracic organs
+C36,Malignant neoplasms of respiratory and intrathoracic organs
+C37,Malignant neoplasms of respiratory and intrathoracic organs
+C38,Malignant neoplasms of respiratory and intrathoracic organs
+C39,Malignant neoplasms of respiratory and intrathoracic organs
+C40,Malignant neoplasms of bone and articular cartilage
+C41,Malignant neoplasms of bone and articular cartilage
+C42,Malignant neoplasms of other and unspecified types of tissue
+C43,Melanoma and other malignant neoplasms of skin
+C44,Melanoma and other malignant neoplasms of skin
+C45,Malignant neoplasms of mesothelial and soft tissue
+C46,Kaposi's sarcoma
+C47,Malignant neoplasms of peripheral nerves and autonomic nervous system
+C48,Malignant neoplasms of retroperitoneum and peritoneum
+C49,Malignant neoplasms of other connective and soft tissue
+C50,Malignant neoplasm of breast
+C51,Malignant neoplasms of female genital organs
+C52,Malignant neoplasms of female genital organs
+C53,Malignant neoplasms of female genital organs
+C54,Malignant neoplasms of female genital organs
+C55,Malignant neoplasms of female genital organs
+C56,Malignant neoplasms of female genital organs
+C57,Malignant neoplasms of female genital organs
+C58,Malignant neoplasms of female genital organs
+C59,Malignant neoplasm of other and unspecified male genital organs
+C60,Malignant neoplasms of male genital organs
+C61,Malignant neoplasms of male genital organs
+C62,Malignant neoplasms of male genital organs
+C63,Malignant neoplasms of male genital organs
+C64,Malignant neoplasms of urinary tract
+C65,Malignant neoplasms of urinary tract
+C66,Malignant neoplasms of urinary tract
+C67,Malignant neoplasms of urinary tract
+C68,Malignant neoplasms of urinary tract
+C69,"Malignant neoplasms of eye, brain and other parts of central nervous system"
+C70,"Malignant neoplasms of eye, brain and other parts of central nervous system"
+C71,"Malignant neoplasms of eye, brain and other parts of central nervous system"
+C72,"Malignant neoplasms of eye, brain and other parts of central nervous system"
+C73,Malignant neoplasms of thyroid and other endocrine glands
+C74,Malignant neoplasms of thyroid and other endocrine glands
+C75,Malignant neoplasms of thyroid and other endocrine glands
+C76,"Malignant neoplasms of ill-defined, secondary and unspecified sites"
+C77,"Malignant neoplasms of ill-defined, secondary and unspecified sites"
+C78,"Malignant neoplasms of ill-defined, secondary and unspecified sites"
+C79,"Malignant neoplasms of ill-defined, secondary and unspecified sites"
+C80,"Malignant neoplasms of ill-defined, secondary and unspecified sites"
+C81,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue"
+C82,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue"
+C83,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue"
+C84,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue"
+C85,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue"
+C86,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue"
+C87,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue"
+C88,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue"
+C89,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue"
+C90,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue"
+C91,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue"
+C92,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue"
+C93,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue"
+C94,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue"
+C95,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue"
+C96,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue"
+C97,Malignant neoplasms of independent (primary) multiple sites
+C98,Other specified malignant neoplasms
+C99,Malignant neoplasms of independent (primary) multiple sites
+D00,In situ neoplasms
+D01,In situ neoplasms
+D02,In situ neoplasms
+D03,In situ neoplasms
+D04,In situ neoplasms
+D05,In situ neoplasms
+D06,In situ neoplasms
+D07,In situ neoplasms
+D08,In situ neoplasms
+D09,In situ neoplasms
+D10,Benign neoplasms
+D11,Benign neoplasms
+D12,Benign neoplasms
+D13,Benign neoplasms
+D14,Benign neoplasms
+D15,Benign neoplasms
+D16,Benign neoplasms
+D17,Benign neoplasms
+D18,Benign neoplasms
+D19,Benign neoplasms
+D20,Benign neoplasms
+D21,Benign neoplasms
+D22,Benign neoplasms
+D23,Benign neoplasms
+D24,Benign neoplasms
+D25,Benign neoplasms
+D26,Benign neoplasms
+D27,Benign neoplasms
+D28,Benign neoplasms
+D29,Benign neoplasms
+D30,Benign neoplasms
+D31,Benign neoplasms
+D32,Benign neoplasms
+D33,Benign neoplasms
+D34,Benign neoplasms
+D35,Benign neoplasms
+D36,Benign neoplasms
+D37,Neoplasms of uncertain or unknown behaviour D50-D53 Nutritional anaemias
+D38,Neoplasms of uncertain or unknown behaviour D50-D53 Nutritional anaemias
+D39,Neoplasms of uncertain or unknown behaviour D50-D53 Nutritional anaemias
+D40,Neoplasms of uncertain or unknown behaviour D50-D53 Nutritional anaemias
+D41,Neoplasms of uncertain or unknown behaviour D50-D53 Nutritional anaemias
+D42,Neoplasms of uncertain or unknown behaviour D50-D53 Nutritional anaemias
+D43,Neoplasms of uncertain or unknown behaviour D50-D53 Nutritional anaemias
+D44,Neoplasms of uncertain or unknown behaviour D50-D53 Nutritional anaemias
+D45,Neoplasms of uncertain or unknown behaviour D50-D53 Nutritional anaemias
+D46,Neoplasms of uncertain or unknown behaviour D50-D53 Nutritional anaemias
+D47,Neoplasms of uncertain or unknown behaviour D50-D53 Nutritional anaemias
+D48,Neoplasms of uncertain or unknown behaviour D50-D53 Nutritional anaemias
+D49,Neoplasms of uncertain or unknown behaviour D50-D53 Nutritional anaemias
+D50,Nutritional anaemias  
+D51,Nutritional anaemias  
+D52,Nutritional anaemias  
+D53,Nutritional anaemias  
+D54,Thalassemia
+D55,Haemolytic anaemias
+D56,Haemolytic anaemias
+D57,Haemolytic anaemias
+D58,Haemolytic anaemias
+D59,Haemolytic anaemias
+D60,Aplastic and other anaemias
+D61,Aplastic and other anaemias
+D62,Aplastic and other anaemias
+D63,Aplastic and other anaemias
+D64,Aplastic and other anaemias
+D65,"Coagulation defects, purpura and other haemorrhagic conditions"
+D66,"Coagulation defects, purpura and other haemorrhagic conditions"
+D67,"Coagulation defects, purpura and other haemorrhagic conditions"
+D68,"Coagulation defects, purpura and other haemorrhagic conditions"
+D69,"Coagulation defects, purpura and other haemorrhagic conditions"
+D70,Other diseases of blood and blood-forming organs
+D71,Other diseases of blood and blood-forming organs
+D72,Other diseases of blood and blood-forming organs
+D73,Other diseases of blood and blood-forming organs
+D74,Other diseases of blood and blood-forming organs
+D75,Other diseases of blood and blood-forming organs
+D76,Other diseases of blood and blood-forming organs
+D77,Other diseases of blood and blood-forming organs
+D78,Intraoperative and postprocedural hemorrhage and hematoma of a musculoskeletal structure
+D79,Abnormal findings not elsewhere classified
+D80,Certain disorders involving the immune mechanism
+D81,Certain disorders involving the immune mechanism
+D82,Certain disorders involving the immune mechanism
+D83,Certain disorders involving the immune mechanism
+D84,Certain disorders involving the immune mechanism
+D85,Certain disorders involving the immune mechanism
+D86,Certain disorders involving the immune mechanism
+D87,Certain disorders involving the immune mechanism
+D88,Certain disorders involving the immune mechanism
+D89,Certain disorders involving the immune mechanism
+D99,Malignant neoplasms of independent (primary) multiple sites
+E00,Disorders of thyroid gland
+E01,Disorders of thyroid gland
+E02,Disorders of thyroid gland
+E03,Disorders of thyroid gland
+E04,Disorders of thyroid gland
+E05,Disorders of thyroid gland
+E06,Disorders of thyroid gland
+E07,Disorders of thyroid gland
+E08,Endocrine Disorders
+E09,Endocrine Disorders
+E10,Endocrine Disorders
+E11,Endocrine Disorders
+E12,Endocrine Disorders
+E13,Endocrine Disorders
+E14,Endocrine Disorders
+E15,Endocrine Disorders
+E16,Endocrine Disorders
+E17,Endocrine Disorders
+E18,Endocrine Disorders
+E19,Endocrine Disorders
+E20,Disorders of other endocrine glands
+E21,Disorders of other endocrine glands
+E22,Disorders of other endocrine glands
+E23,Disorders of other endocrine glands
+E24,Disorders of other endocrine glands
+E25,Disorders of other endocrine glands
+E26,Disorders of other endocrine glands
+E27,Disorders of other endocrine glands
+E28,Disorders of other endocrine glands
+E29,Disorders of other endocrine glands
+E30,Disorders of other endocrine glands
+E31,Disorders of other endocrine glands
+E32,Disorders of other endocrine glands
+E33,Disorders of other endocrine glands
+E34,Disorders of other endocrine glands
+E35,Disorders of other endocrine glands
+E36,Endocrine Complications and Sequelae
+E37,Endocrine Complications and Sequelae
+E38,Endocrine Complications and Sequelae
+E39,Endocrine Complications and Sequelae
+E40,Malnutrition
+E41,Malnutrition
+E42,Malnutrition
+E43,Malnutrition
+E44,Malnutrition
+E45,Malnutrition
+E46,Malnutrition
+E47,Other disorders of thyroid
+E48,Other disorders of thyroid
+E50,Nutritional Disorders:
+E51,Nutritional Disorders:
+E52,Nutritional Disorders:
+E53,Nutritional Disorders:
+E54,Nutritional Disorders:
+E55,Nutritional Disorders:
+E56,Nutritional Disorders:
+E57,Nutritional Disorders:
+E58,Nutritional Disorders:
+E59,Nutritional Disorders:
+E60,Nutritional Disorders:
+E61,Nutritional Disorders:
+E62,Nutritional Disorders:
+E63,Nutritional Disorders:
+E64,Nutritional Disorders:
+E65,Nutritional Disorders:
+E66,Nutritional Disorders:
+E67,Nutritional Disorders:
+E68,Nutritional Disorders:
+E69,Nutritional Disorders:
+E70,Metabolic disorders
+E71,Metabolic disorders
+E72,Metabolic disorders
+E73,Metabolic disorders
+E74,Metabolic disorders
+E75,Metabolic disorders
+E76,Metabolic disorders
+E77,Metabolic disorders
+E78,Metabolic disorders
+E79,Metabolic disorders
+E80,Metabolic disorders
+E81,Metabolic disorders
+E82,Metabolic disorders
+E83,Metabolic disorders
+E84,Metabolic disorders
+E85,Metabolic disorders
+E86,Metabolic disorders
+E87,Metabolic disorders
+E88,Metabolic disorders
+E89,Metabolic disorders
+E90,Metabolic disorders
+E91,Immune and Inflammatory Disorders
+E92,Immune and Inflammatory Disorders
+E93,Endocrine Complications and Sequelae
+E94,Endocrine Complications and Sequelae
+E95,Sequelae of Other Conditions
+E96,Sequelae of Other Conditions
+E97,Sequelae of Other Conditions
+E98,Sequelae of Other Conditions
+E99,Sequelae of Other Conditions
+F00,"Organic, including symptomatic, mental disorders"
+F01,"Organic, including symptomatic, mental disorders"
+F02,"Organic, including symptomatic, mental disorders"
+F03,"Organic, including symptomatic, mental disorders"
+F04,"Organic, including symptomatic, mental disorders"
+F05,"Organic, including symptomatic, mental disorders"
+F06,"Organic, including symptomatic, mental disorders"
+F07,"Organic, including symptomatic, mental disorders"
+F08,"Organic, including symptomatic, mental disorders"
+F09,"Organic, including symptomatic, mental disorders"
+F10,Mental and behavioural disorders due to psychoactive substance use
+F11,Mental and behavioural disorders due to psychoactive substance use
+F12,Mental and behavioural disorders due to psychoactive substance use
+F13,Mental and behavioural disorders due to psychoactive substance use
+F14,Mental and behavioural disorders due to psychoactive substance use
+F15,Mental and behavioural disorders due to psychoactive substance use
+F16,Mental and behavioural disorders due to psychoactive substance use
+F17,Mental and behavioural disorders due to psychoactive substance use
+F18,Mental and behavioural disorders due to psychoactive substance use
+F19,Mental and behavioural disorders due to psychoactive substance use
+F20,"Schizophrenia, schizotypal and delusional disorders"
+F21,"Schizophrenia, schizotypal and delusional disorders"
+F22,"Schizophrenia, schizotypal and delusional disorders"
+F23,"Schizophrenia, schizotypal and delusional disorders"
+F24,"Schizophrenia, schizotypal and delusional disorders"
+F25,"Schizophrenia, schizotypal and delusional disorders"
+F26,"Schizophrenia, schizotypal and delusional disorders"
+F27,"Schizophrenia, schizotypal and delusional disorders"
+F28,"Schizophrenia, schizotypal and delusional disorders"
+F29,"Schizophrenia, schizotypal and delusional disorders"
+F30,Mood [affective] disorders
+F31,Mood [affective] disorders
+F32,Mood [affective] disorders
+F33,Mood [affective] disorders
+F34,Mood [affective] disorders
+F35,Mood [affective] disorders
+F36,Mood [affective] disorders
+F37,Mood [affective] disorders
+F38,Mood [affective] disorders
+F39,Mood [affective] disorders
+F40,"Neurotic, stress-related and somatoform disorders"
+F41,"Neurotic, stress-related and somatoform disorders"
+F42,"Neurotic, stress-related and somatoform disorders"
+F43,"Neurotic, stress-related and somatoform disorders"
+F44,"Neurotic, stress-related and somatoform disorders"
+F45,"Neurotic, stress-related and somatoform disorders"
+F46,"Neurotic, stress-related and somatoform disorders"
+F47,"Neurotic, stress-related and somatoform disorders"
+F48,"Neurotic, stress-related and somatoform disorders"
+F49,Unspecified mental disorder
+F50,Behavioural syndromes associated with physiological disturbances and physical factors
+F51,Behavioural syndromes associated with physiological disturbances and physical factors
+F52,Behavioural syndromes associated with physiological disturbances and physical factors
+F53,Behavioural syndromes associated with physiological disturbances and physical factors
+F54,Behavioural syndromes associated with physiological disturbances and physical factors
+F55,Behavioural syndromes associated with physiological disturbances and physical factors
+F56,Behavioural syndromes associated with physiological disturbances and physical factors
+F57,Behavioural syndromes associated with physiological disturbances and physical factors
+F58,Behavioural syndromes associated with physiological disturbances and physical factors
+F59,Behavioural syndromes associated with physiological disturbances and physical factors
+F60,Disorders of adult personality and behaviour
+F61,Disorders of adult personality and behaviour
+F62,Disorders of adult personality and behaviour
+F63,Disorders of adult personality and behaviour
+F64,Disorders of adult personality and behaviour
+F65,Disorders of adult personality and behaviour
+F66,Disorders of adult personality and behaviour
+F67,Disorders of adult personality and behaviour
+F68,Disorders of adult personality and behaviour
+F69,Disorders of adult personality and behaviour
+F70,Mental retardation
+F71,Mental retardation
+F72,Mental retardation
+F73,Mental retardation
+F74,Mental retardation
+F75,Mental retardation
+F76,Mental retardation
+F77,Mental retardation
+F78,Mental retardation
+F79,Mental retardation
+F80,Disorders of psychological development
+F81,Disorders of psychological development
+F82,Disorders of psychological development
+F83,Disorders of psychological development
+F84,Disorders of psychological development
+F85,Disorders of psychological development
+F86,Disorders of psychological development
+F87,Disorders of psychological development
+F88,Disorders of psychological development
+F89,Disorders of psychological development
+F90,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+F91,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+F92,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+F93,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+F94,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+F95,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+F96,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+F97,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+F98,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+F99,Unspecified mental disorder
+G00,Inflammatory diseases of the central nervous system
+G01,Inflammatory diseases of the central nervous system
+G02,Inflammatory diseases of the central nervous system
+G03,Inflammatory diseases of the central nervous system
+G04,Inflammatory diseases of the central nervous system
+G05,Inflammatory diseases of the central nervous system
+G06,Inflammatory diseases of the central nervous system
+G07,Inflammatory diseases of the central nervous system
+G08,Inflammatory diseases of the central nervous system
+G09,Inflammatory diseases of the central nervous system
+G10,Systemic atrophies primarily affecting the central nervous system
+G11,Systemic atrophies primarily affecting the central nervous system
+G12,Systemic atrophies primarily affecting the central nervous system
+G13,Systemic atrophies primarily affecting the central nervous system
+G14,Systemic atrophies primarily affecting the central nervous system
+G15,Neurological Disorders
+G16,Neurological Disorders
+G17,Neurological Disorders
+G18,Neurological Disorders
+G19,Neurological Disorders
+G20,Extrapyramidal and movement disorders
+G21,Extrapyramidal and movement disorders
+G22,Extrapyramidal and movement disorders
+G23,Extrapyramidal and movement disorders
+G24,Extrapyramidal and movement disorders
+G25,Extrapyramidal and movement disorders
+G26,Extrapyramidal and movement disorders
+G27,Movement Disorders
+G28,Movement Disorders
+G29,Movement Disorders
+G30,Other degenerative diseases of the nervous system
+G31,Other degenerative diseases of the nervous system
+G32,Other degenerative diseases of the nervous system
+G33,Demyelinating diseases of the central nervous system
+G34,Demyelinating diseases of the central nervous system
+G35,Demyelinating diseases of the central nervous system
+G36,Demyelinating diseases of the central nervous system
+G37,Demyelinating diseases of the central nervous system
+G38,"Nerve, Nerve Root and Plexus Disorders:"
+G39,"Nerve, Nerve Root and Plexus Disorders:"
+G40,Episodic and paroxysmal disorders
+G41,Episodic and paroxysmal disorders
+G42,Episodic and paroxysmal disorders
+G43,Episodic and paroxysmal disorders
+G44,Episodic and paroxysmal disorders
+G45,Episodic and paroxysmal disorders
+G46,Episodic and paroxysmal disorders
+G47,Episodic and paroxysmal disorders
+G50,"Nerve, nerve root and plexus disorders"
+G51,"Nerve, nerve root and plexus disorders"
+G52,"Nerve, nerve root and plexus disorders"
+G53,"Nerve, nerve root and plexus disorders"
+G54,"Nerve, nerve root and plexus disorders"
+G55,"Nerve, nerve root and plexus disorders"
+G56,"Nerve, nerve root and plexus disorders"
+G57,"Nerve, nerve root and plexus disorders"
+G58,"Nerve, nerve root and plexus disorders"
+G59,"Nerve, nerve root and plexus disorders"
+G60,Polyneuropathies and other disorders of the peripheral nervous system
+G61,Polyneuropathies and other disorders of the peripheral nervous system
+G62,Polyneuropathies and other disorders of the peripheral nervous system
+G63,Polyneuropathies and other disorders of the peripheral nervous system
+G64,Polyneuropathies and other disorders of the peripheral nervous system
+G65,Cerebral Palsy and Other Paralytic Syndromes
+G66,Cerebral Palsy and Other Paralytic Syndromes
+G67,Cerebral Palsy and Other Paralytic Syndromes
+G68,Cerebral Palsy and Other Paralytic Syndromes
+G69,Cerebral Palsy and Other Paralytic Syndromes
+G70,Diseases of myoneural junction and muscle
+G71,Diseases of myoneural junction and muscle
+G72,Diseases of myoneural junction and muscle
+G73,Diseases of myoneural junction and muscle
+G74,"Nerve, Nerve Root and Plexus Disorders"
+G75,"Nerve, Nerve Root and Plexus Disorders"
+G76,"Nerve, Nerve Root and Plexus Disorders"
+G77,"Nerve, Nerve Root and Plexus Disorders"
+G78,"Nerve, Nerve Root and Plexus Disorders"
+G79,"Nerve, Nerve Root and Plexus Disorders"
+G80,Cerebral palsy and other paralytic syndromes
+G81,Cerebral palsy and other paralytic syndromes
+G82,Cerebral palsy and other paralytic syndromes
+G83,Cerebral palsy and other paralytic syndromes
+G84,Pain and Other Symptoms
+G85,Pain and Other Symptoms
+G86,Pain and Other Symptoms
+G87,Pain and Other Symptoms
+G88,Pain and Other Symptoms
+G89,Pain and Other Symptoms
+G90,Other disorders of the nervous system
+G91,Other disorders of the nervous system
+G92,Other disorders of the nervous system
+G93,Other disorders of the nervous system
+G94,Other disorders of the nervous system
+G95,Other disorders of the nervous system
+G96,Other disorders of the nervous system
+G97,Other disorders of the nervous system
+G98,Other disorders of the nervous system
+G99,Other disorders of the nervous system
+H00,"Disorders of eyelid, lacrimal system and orbit"
+H01,"Disorders of eyelid, lacrimal system and orbit"
+H02,"Disorders of eyelid, lacrimal system and orbit"
+H03,"Disorders of eyelid, lacrimal system and orbit"
+H04,"Disorders of eyelid, lacrimal system and orbit"
+H05,"Disorders of eyelid, lacrimal system and orbit"
+H06,"Disorders of eyelid, lacrimal system and orbit"
+H07,Disorders of the Eye and Adnexa
+H08,Disorders of the Eye and Adnexa
+H09,Disorders of the Eye and Adnexa
+H10,Disorders of conjunctiva
+H11,Disorders of conjunctiva
+H12,Disorders of conjunctiva
+H13,Disorders of conjunctiva
+H14,Disorders of the Eye and Adnexa
+H15,"Disorders of sclera, cornea, iris and ciliary body"
+H16,"Disorders of sclera, cornea, iris and ciliary body"
+H17,"Disorders of sclera, cornea, iris and ciliary body"
+H18,"Disorders of sclera, cornea, iris and ciliary body"
+H19,"Disorders of sclera, cornea, iris and ciliary body"
+H20,"Disorders of sclera, cornea, iris and ciliary body"
+H21,"Disorders of sclera, cornea, iris and ciliary body"
+H22,"Disorders of sclera, cornea, iris and ciliary body"
+H23,Disorders of the Eye and Adnexa
+H24,Disorders of the Eye and Adnexa
+H25,Disorders of lens
+H26,Disorders of lens
+H27,Disorders of lens
+H28,Disorders of lens
+H29,Disorders of the Eye and Adnexa
+H30,Disorders of choroid and retina
+H31,Disorders of choroid and retina
+H32,Disorders of choroid and retina
+H33,Disorders of choroid and retina
+H34,Disorders of choroid and retina
+H35,Disorders of choroid and retina
+H36,Disorders of choroid and retina
+H37,Disorders of the Eye and Adnexa
+H38,Disorders of the Eye and Adnexa
+H39,Disorders of the Eye and Adnexa
+H40,Glaucoma
+H41,Glaucoma
+H42,Glaucoma
+H43,Disorders of vitreous body and globe
+H44,Disorders of vitreous body and globe
+H45,Disorders of vitreous body and globe
+H46,Disorders of optic nerve and visual pathways
+H47,Disorders of optic nerve and visual pathways
+H48,Disorders of optic nerve and visual pathways
+H49,"Disorders of ocular muscles, binocular movement, accommodation and refraction"
+H50,"Disorders of ocular muscles, binocular movement, accommodation and refraction"
+H51,"Disorders of ocular muscles, binocular movement, accommodation and refraction"
+H52,"Disorders of ocular muscles, binocular movement, accommodation and refraction"
+H53,Visual disturbances and blindness
+H54,Visual disturbances and blindness
+H55,Other disorders of eye and adnexa
+H56,Other disorders of eye and adnexa
+H57,Other disorders of eye and adnexa
+H58,Other disorders of eye and adnexa
+H59,Other disorders of eye and adnexa
+H60,Diseases of external ear
+H61,Diseases of external ear
+H62,Diseases of external ear
+H63,Diseases of the Ear and Mastoid Process
+H64,Diseases of the Ear and Mastoid Process
+H65,Diseases of middle ear and mastoid
+H66,Diseases of middle ear and mastoid
+H67,Diseases of middle ear and mastoid
+H68,Diseases of middle ear and mastoid
+H69,Diseases of middle ear and mastoid
+H70,Diseases of middle ear and mastoid
+H71,Diseases of middle ear and mastoid
+H72,Diseases of middle ear and mastoid
+H73,Diseases of middle ear and mastoid
+H74,Diseases of middle ear and mastoid
+H75,Diseases of middle ear and mastoid
+H74,Diseases of the Ear and Mastoid Process
+H75,Diseases of the Ear and Mastoid Process
+H76,Diseases of the Ear and Mastoid Process
+H77,Diseases of the Ear and Mastoid Process
+H78,Diseases of the Ear and Mastoid Process
+H79,Diseases of the Ear and Mastoid Process
+H80,Diseases of inner ear
+H81,Diseases of inner ear
+H82,Diseases of inner ear
+H83,Diseases of inner ear
+H84,Otological Disorders
+H85,Otological Disorders
+H86,Otological Disorders
+H87,Otological Disorders
+H88,Otological Disorders
+H89,Otological Disorders
+H90,Postprocedural Disorders
+H91,Postprocedural Disorders
+H92,Postprocedural Disorders
+H93,Postprocedural Disorders
+H94,Postprocedural Disorders
+H95,Postprocedural Disorders
+H96,Postprocedural Disorders
+H97,Postprocedural Disorders
+H98,Postprocedural Disorders
+H99,Postprocedural Disorders
+H90,Other disorders of ear
+H91,Other disorders of ear
+H92,Other disorders of ear
+H93,Other disorders of ear
+H94,Other disorders of ear
+H95,Other disorders of ear
+I00,Acute rheumatic fever
+I01,Acute rheumatic fever
+I02,Acute rheumatic fever
+I03,Ischemic Heart Diseases
+I04,Ischemic Heart Diseases
+I06,Cerebrovascular Diseases
+I05,Chronic rheumatic heart diseases
+I06,Chronic rheumatic heart diseases
+I07,Chronic rheumatic heart diseases
+I08,Chronic rheumatic heart diseases
+I09,Chronic rheumatic heart diseases
+I10,Hypertensive diseases
+I11,Hypertensive diseases
+I12,Hypertensive diseases
+I13,Hypertensive diseases
+I14,Hypertensive diseases
+I15,Hypertensive diseases
+I16,Hypertensive diseases
+I17,Hypertensive diseases
+I18,Hypertensive diseases
+I19,Hypertensive diseases
+I20,Ischaemic heart diseases
+I21,Ischaemic heart diseases
+I22,Ischaemic heart diseases
+I23,Ischaemic heart diseases
+I24,Ischaemic heart diseases
+I25,Ischaemic heart diseases
+I26,Pulmonary heart disease and diseases of pulmonary circulation
+I27,Pulmonary heart disease and diseases of pulmonary circulation
+I28,Pulmonary heart disease and diseases of pulmonary circulation
+I29,Pulmonary heart disease and diseases of pulmonary circulation
+I30,Other forms of heart disease
+I31,Other forms of heart disease
+I32,Other forms of heart disease
+I33,Other forms of heart disease
+I34,Other forms of heart disease
+I35,Other forms of heart disease
+I36,Other forms of heart disease
+I37,Other forms of heart disease
+I38,Other forms of heart disease
+I39,Other forms of heart disease
+I40,Other forms of heart disease
+I41,Other forms of heart disease
+I42,Other forms of heart disease
+I43,Other forms of heart disease
+I44,Other forms of heart disease
+I45,Other forms of heart disease
+I46,Other forms of heart disease
+I47,Other forms of heart disease
+I48,Other forms of heart disease
+I49,Other forms of heart disease
+I50,Other forms of heart disease
+I51,Other forms of heart disease
+I52,Other forms of heart disease
+I53,Heart Failure
+I54,Heart Failure
+I55,Heart Failure
+I56,Heart Failure
+I57,Heart Failure
+I58,Heart Failure
+I59,Heart Failure
+I60,Cerebrovascular diseases
+I61,Cerebrovascular diseases
+I62,Cerebrovascular diseases
+I63,Cerebrovascular diseases
+I64,Cerebrovascular diseases
+I65,Cerebrovascular diseases
+I66,Cerebrovascular diseases
+I67,Cerebrovascular diseases
+I68,Cerebrovascular diseases
+I69,Cerebrovascular diseases
+I70,"Diseases of arteries, arterioles and capillaries"
+I71,"Diseases of arteries, arterioles and capillaries"
+I72,"Diseases of arteries, arterioles and capillaries"
+I73,"Diseases of arteries, arterioles and capillaries"
+I74,"Diseases of arteries, arterioles and capillaries"
+I75,"Diseases of arteries, arterioles and capillaries"
+I76,"Diseases of arteries, arterioles and capillaries"
+I77,"Diseases of arteries, arterioles and capillaries"
+I78,"Diseases of arteries, arterioles and capillaries"
+I79,"Diseases of arteries, arterioles and capillaries"
+I80,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I81,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I82,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I83,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I84,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I85,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I86,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I87,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I88,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I89,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+I90,"Diseases of Arteries, Arterioles and Capillaries"
+I91,"Diseases of Arteries, Arterioles and Capillaries"
+I92,"Diseases of Arteries, Arterioles and Capillaries"
+I93,"Diseases of Arteries, Arterioles and Capillaries"
+I94,"Diseases of Arteries, Arterioles and Capillaries"
+I95,Other and unspecified disorders of the circulatory system
+I96,Other and unspecified disorders of the circulatory system
+I97,Other and unspecified disorders of the circulatory system
+I98,Other and unspecified disorders of the circulatory system
+I99,Other and unspecified disorders of the circulatory system
+J00,Acute upper respiratory infections
+J01,Acute upper respiratory infections
+J02,Acute upper respiratory infections
+J03,Acute upper respiratory infections
+J04,Acute upper respiratory infections
+J05,Acute upper respiratory infections
+J06,Acute upper respiratory infections
+J07,Immunization and Screening for Infectious Diseases
+J08,Immunization and Screening for Infectious Diseases
+J09,Influenza and pneumonia
+J10,Influenza and pneumonia
+J11,Influenza and pneumonia
+J12,Influenza and pneumonia
+J13,Influenza and pneumonia
+J14,Influenza and pneumonia
+J15,Influenza and pneumonia
+J16,Influenza and pneumonia
+J17,Influenza and pneumonia
+J18,Influenza and pneumonia
+J19,Influenza and pneumonia
+J20,Other acute lower respiratory infections
+J21,Other acute lower respiratory infections
+J22,Other acute lower respiratory infections
+J23,Chronic Lower Respiratory Diseases
+J24,Chronic Lower Respiratory Diseases
+J25,Chronic Lower Respiratory Diseases
+J26,Chronic Lower Respiratory Diseases
+J27,Chronic Lower Respiratory Diseases
+J28,Chronic Lower Respiratory Diseases
+J29,Chronic Lower Respiratory Diseases
+J30,Other diseases of upper respiratory tract
+J31,Other diseases of upper respiratory tract
+J32,Other diseases of upper respiratory tract
+J33,Other diseases of upper respiratory tract
+J34,Other diseases of upper respiratory tract
+J35,Other diseases of upper respiratory tract
+J36,Other diseases of upper respiratory tract
+J37,Other diseases of upper respiratory tract
+J38,Other diseases of upper respiratory tract
+J39,Other diseases of upper respiratory tract
+J40,Chronic lower respiratory diseases
+J41,Chronic lower respiratory diseases
+J42,Chronic lower respiratory diseases
+J43,Chronic lower respiratory diseases
+J44,Chronic lower respiratory diseases
+J45,Chronic lower respiratory diseases
+J46,Chronic lower respiratory diseases
+J47,Chronic lower respiratory diseases
+J48,Lung Diseases due to External Agents
+J49,Lung Diseases due to External Agents
+J50,Lung Diseases due to External Agents
+J51,Lung Diseases due to External Agents
+J52,Lung Diseases due to External Agents
+J53,Lung Diseases due to External Agents
+J54,Lung Diseases due to External Agents
+J55,Lung Diseases due to External Agents
+J56,Lung Diseases due to External Agents
+J57,Lung Diseases due to External Agents
+J58,Lung Diseases due to External Agents
+J59,Lung Diseases due to External Agents
+J60,Lung Diseases due to External Agents
+J61,Lung Diseases due to External Agents
+J62,Lung Diseases due to External Agents
+J63,Lung Diseases due to External Agents
+J64,Lung Diseases due to External Agents
+J65,Lung Diseases due to External Agents
+J66,Lung Diseases due to External Agents
+J67,Lung Diseases due to External Agents
+J68,Lung Diseases due to External Agents
+J69,Lung Diseases due to External Agents
+J70,Lung Diseases due to External Agents
+J71,"Pleural, Mediastinal and Other Chest Disorders"
+J72,"Pleural, Mediastinal and Other Chest Disorders"
+J73,"Pleural, Mediastinal and Other Chest Disorders"
+J74,"Pleural, Mediastinal and Other Chest Disorders"
+J75,"Pleural, Mediastinal and Other Chest Disorders"
+J76,"Pleural, Mediastinal and Other Chest Disorders"
+J77,"Pleural, Mediastinal and Other Chest Disorders"
+J78,"Pleural, Mediastinal and Other Chest Disorders"
+J79,"Pleural, Mediastinal and Other Chest Disorders"
+J80,Other respiratory diseases principally affecting the interstitium
+J81,Other respiratory diseases principally affecting the interstitium
+J82,Other respiratory diseases principally affecting the interstitium
+J83,Other respiratory diseases principally affecting the interstitium
+J84,Other respiratory diseases principally affecting the interstitium
+J85,Suppurative and necrotic conditions of lower respiratory tract
+J86,Suppurative and necrotic conditions of lower respiratory tract
+J87,Other Respiratory Disorders
+J88,Other Respiratory Disorders
+J89,Other Respiratory Disorders
+J90,Other diseases of pleura
+J91,Other diseases of pleura
+J92,Other diseases of pleura
+J93,Other diseases of pleura
+J94,Other diseases of pleura
+J95,Other diseases of the respiratory system
+J96,Other diseases of the respiratory system
+J97,Other diseases of the respiratory system
+J98,Other diseases of the respiratory system
+J99,Other diseases of the respiratory system
+K00,"Diseases of oral cavity, salivary glands and jaws"
+K01,"Diseases of oral cavity, salivary glands and jaws"
+K02,"Diseases of oral cavity, salivary glands and jaws"
+K03,"Diseases of oral cavity, salivary glands and jaws"
+K04,"Diseases of oral cavity, salivary glands and jaws"
+K05,"Diseases of oral cavity, salivary glands and jaws"
+K06,"Diseases of oral cavity, salivary glands and jaws"
+K07,"Diseases of oral cavity, salivary glands and jaws"
+K08,"Diseases of oral cavity, salivary glands and jaws"
+K09,"Diseases of oral cavity, salivary glands and jaws"
+K10,"Diseases of oral cavity, salivary glands and jaws"
+K11,"Diseases of oral cavity, salivary glands and jaws"
+K12,"Diseases of oral cavity, salivary glands and jaws"
+K13,"Diseases of oral cavity, salivary glands and jaws"
+K14,"Diseases of oral cavity, salivary glands and jaws"
+K15,Diseases of Oral Cavity and Salivary Glands
+K16,Diseases of Oral Cavity and Salivary Glands
+K17,Diseases of Oral Cavity and Salivary Glands
+K18,Diseases of Oral Cavity and Salivary Glands
+K19,Diseases of Oral Cavity and Salivary Glands
+K20,"Diseases of oesophagus, stomach and duodenum"
+K21,"Diseases of oesophagus, stomach and duodenum"
+K22,"Diseases of oesophagus, stomach and duodenum"
+K23,"Diseases of oesophagus, stomach and duodenum"
+K24,"Diseases of oesophagus, stomach and duodenum"
+K25,"Diseases of oesophagus, stomach and duodenum"
+K26,"Diseases of oesophagus, stomach and duodenum"
+K27,"Diseases of oesophagus, stomach and duodenum"
+K28,"Diseases of oesophagus, stomach and duodenum"
+K29,"Diseases of oesophagus, stomach and duodenum"
+K30,"Diseases of oesophagus, stomach and duodenum"
+K31,"Diseases of oesophagus, stomach and duodenum"
+K32,"Diseases of Esophagus, Stomach and Duodenum"
+K33,"Diseases of Esophagus, Stomach and Duodenum"
+K34,"Diseases of Esophagus, Stomach and Duodenum"
+K35,Diseases of appendix
+K36,Diseases of appendix
+K37,Diseases of appendix
+K38,Diseases of appendix
+K39,Hernia
+K40,Hernia
+K41,Hernia
+K42,Hernia
+K43,Hernia
+K44,Hernia
+K45,Hernia
+K46,Hernia
+K47,Noninfective Enteritis and Colitis
+K48,Noninfective Enteritis and Colitis
+K49,Noninfective Enteritis and Colitis
+K50,Noninfective enteritis and colitis
+K51,Noninfective enteritis and colitis
+K52,Noninfective enteritis and colitis
+K53,Other Diseases of the Digestive System
+K54,Other Diseases of the Digestive System
+K55,Other diseases of intestines
+K56,Other diseases of intestines
+K57,Other diseases of intestines
+K58,Other diseases of intestines
+K59,Other diseases of intestines
+K60,Other diseases of intestines
+K61,Other diseases of intestines
+K62,Other diseases of intestines
+K63,Other diseases of intestines
+K64,Other diseases of intestines
+K65,Diseases of peritoneum
+K66,Diseases of peritoneum
+K67,Diseases of peritoneum
+K68,"Diseases of Oral Cavity, Salivary Glands and Jaws"
+K69,"Diseases of Oral Cavity, Salivary Glands and Jaws"
+K70,Diseases of liver
+K71,Diseases of liver
+K72,Diseases of liver
+K73,Diseases of liver
+K74,Diseases of liver
+K75,Diseases of liver
+K76,Diseases of liver
+K77,Diseases of liver
+K78,Other Diseases of the Digestive System
+K79,Other Diseases of the Digestive System
+K80,"Disorders of gallbladder, biliary tract and pancreas"
+K81,"Disorders of gallbladder, biliary tract and pancreas"
+K82,"Disorders of gallbladder, biliary tract and pancreas"
+K83,"Disorders of gallbladder, biliary tract and pancreas"
+K84,"Disorders of gallbladder, biliary tract and pancreas"
+K85,"Disorders of gallbladder, biliary tract and pancreas"
+K86,"Disorders of gallbladder, biliary tract and pancreas"
+K87,"Disorders of gallbladder, biliary tract and pancreas"
+K88,"Diseases of Oral Cavity, Salivary Glands and Jaws"
+K89,"Diseases of Oral Cavity, Salivary Glands and Jaws"
+K90,Other diseases of the digestive system
+K91,Other diseases of the digestive system
+K92,Other diseases of the digestive system
+K93,Other diseases of the digestive system
+K94,Other Diseases of the Digestive System
+K95,Other Diseases of the Digestive System
+K96,Other Diseases of the Digestive System
+K97,Other Diseases of the Digestive System
+K98,Other Diseases of the Digestive System
+K99,Other Diseases of the Digestive System
+L00,Infections of the skin and subcutaneous tissue
+L01,Infections of the skin and subcutaneous tissue
+L02,Infections of the skin and subcutaneous tissue
+L03,Infections of the skin and subcutaneous tissue
+L04,Infections of the skin and subcutaneous tissue
+L05,Infections of the skin and subcutaneous tissue
+L06,Infections of the skin and subcutaneous tissue
+L07,Infections of the skin and subcutaneous tissue
+L08,Infections of the skin and subcutaneous tissue
+L09,Other disorders of skin and subcutaneous tissue
+L10,Bullous disorders
+L11,Bullous disorders
+L12,Bullous disorders
+L13,Bullous disorders
+L14,Bullous disorders
+L15,Bullous disorders
+L16,Bullous disorders
+L17,Bullous disorders
+L18,Bullous disorders
+L19,Bullous disorders
+L20,Dermatitis and eczema
+L21,Dermatitis and eczema
+L22,Dermatitis and eczema
+L23,Dermatitis and eczema
+L24,Dermatitis and eczema
+L25,Dermatitis and eczema
+L26,Dermatitis and eczema
+L27,Dermatitis and eczema
+L28,Dermatitis and eczema
+L29,Dermatitis and eczema
+L30,Dermatitis and eczema
+L31,Dermatitis and eczema
+L32,Dermatitis and eczema
+L33,Dermatitis and eczema
+L34,Dermatitis and eczema
+L35,Dermatitis and eczema
+L36,Dermatitis and eczema
+L37,Dermatitis and eczema
+L38,Dermatitis and eczema
+L39,Dermatitis and eczema
+L40,Papulosquamous disorders
+L41,Papulosquamous disorders
+L42,Papulosquamous disorders
+L43,Papulosquamous disorders
+L44,Papulosquamous disorders
+L45,Papulosquamous disorders
+L46,- Papulosquamous disorders
+L47,- Papulosquamous disorders
+L48,- Papulosquamous disorders
+L49,- Papulosquamous disorders
+L50,Urticaria and erythema
+L51,Urticaria and erythema
+L52,Urticaria and erythema
+L53,Urticaria and erythema
+L54,Urticaria and erythema
+L55,Radiation-related disorders of the skin and subcutaneous tissue
+L56,Radiation-related disorders of the skin and subcutaneous tissue
+L57,Radiation-related disorders of the skin and subcutaneous tissue
+L58,Radiation-related disorders of the skin and subcutaneous tissue
+L59,Radiation-related disorders of the skin and subcutaneous tissue
+L60,Disorders of skin appendages
+L61,Disorders of skin appendages
+L62,Disorders of skin appendages
+L63,Disorders of skin appendages
+L64,Disorders of skin appendages
+L65,Disorders of skin appendages
+L66,Disorders of skin appendages
+L67,Disorders of skin appendages
+L68,Disorders of skin appendages
+L69,Disorders of skin appendages
+L70,Disorders of skin appendages
+L71,Disorders of skin appendages
+L72,Disorders of skin appendages
+L73,Disorders of skin appendages
+L74,Disorders of skin appendages
+L75,Disorders of skin appendages
+L76,- Other disorders of skin and subcutaneous tissue
+L77,- Other disorders of skin and subcutaneous tissue
+L78,- Other disorders of skin and subcutaneous tissue
+L79,- Other disorders of skin and subcutaneous tissue
+L80,Other disorders of the skin and subcutaneous tissue
+L81,Other disorders of the skin and subcutaneous tissue
+L82,Other disorders of the skin and subcutaneous tissue
+L83,Other disorders of the skin and subcutaneous tissue
+L84,Other disorders of the skin and subcutaneous tissue
+L85,Other disorders of the skin and subcutaneous tissue
+L86,Other disorders of the skin and subcutaneous tissue
+L87,Other disorders of the skin and subcutaneous tissue
+L88,Other disorders of the skin and subcutaneous tissue
+L89,Other disorders of the skin and subcutaneous tissue
+L90,Other disorders of the skin and subcutaneous tissue
+L91,Other disorders of the skin and subcutaneous tissue
+L92,Other disorders of the skin and subcutaneous tissue
+L93,Other disorders of the skin and subcutaneous tissue
+L94,Other disorders of the skin and subcutaneous tissue
+L95,Other disorders of the skin and subcutaneous tissue
+L96,Other disorders of the skin and subcutaneous tissue
+L97,Other disorders of the skin and subcutaneous tissue
+L98,Other disorders of the skin and subcutaneous tissue
+L99,Other disorders of the skin and subcutaneous tissue
+M00,Arthropathies
+M01,Arthropathies
+M02,Arthropathies
+M03,Arthropathies
+M04,Arthropathies
+M05,Arthropathies
+M06,Arthropathies
+M07,Arthropathies
+M08,Arthropathies
+M09,Arthropathies
+M10,Arthropathies
+M11,Arthropathies
+M12,Arthropathies
+M13,Arthropathies
+M14,Arthropathies
+M15,Arthropathies
+M16,Arthropathies
+M17,Arthropathies
+M18,Arthropathies
+M19,Arthropathies
+M20,Arthropathies
+M21,Arthropathies
+M22,Arthropathies
+M23,Arthropathies
+M24,Arthropathies
+M25,Arthropathies
+M24,Diseases of the Musculoskeletal System and Connective Tissue
+M25,Diseases of the Musculoskeletal System and Connective Tissue
+M26,Diseases of the Musculoskeletal System and Connective Tissue
+M27,Diseases of the Musculoskeletal System and Connective Tissue
+M28,Diseases of the Musculoskeletal System and Connective Tissue
+M29,Diseases of the Musculoskeletal System and Connective Tissue
+M30,Systemic connective tissue disorders
+M31,Systemic connective tissue disorders
+M32,Systemic connective tissue disorders
+M33,Systemic connective tissue disorders
+M34,Systemic connective tissue disorders
+M35,Systemic connective tissue disorders
+M36,Systemic connective tissue disorders
+M37,Osteopathies and chondropathies
+M38,Osteopathies and chondropathies
+M39,Osteopathies and chondropathies
+M40,Dorsopathies
+M41,Dorsopathies
+M42,Dorsopathies
+M43,Dorsopathies
+M44,Dorsopathies
+M45,Dorsopathies
+M46,Dorsopathies
+M47,Dorsopathies
+M48,Dorsopathies
+M49,Dorsopathies
+M50,Dorsopathies
+M51,Dorsopathies
+M52,Dorsopathies
+M53,Dorsopathies
+M54,Dorsopathies
+M55,Diseases of the Musculoskeletal System and Connective Tissue
+M56,Diseases of the Musculoskeletal System and Connective Tissue
+M57,Diseases of the Musculoskeletal System and Connective Tissue
+M58,Diseases of the Musculoskeletal System and Connective Tissue
+M59,Diseases of the Musculoskeletal System and Connective Tissue
+M60,Soft tissue disorders
+M61,Soft tissue disorders
+M62,Soft tissue disorders
+M63,Soft tissue disorders
+M64,Soft tissue disorders
+M65,Soft tissue disorders
+M66,Soft tissue disorders
+M67,Soft tissue disorders
+M68,Soft tissue disorders
+M69,Soft tissue disorders
+M70,Soft tissue disorders
+M71,Soft tissue disorders
+M72,Soft tissue disorders
+M73,Soft tissue disorders
+M74,Soft tissue disorders
+M75,Soft tissue disorders
+M76,Soft tissue disorders
+M77,Soft tissue disorders
+M78,Soft tissue disorders
+M79,Soft tissue disorders
+M80,Osteopathies and chondropathies
+M81,Osteopathies and chondropathies
+M82,Osteopathies and chondropathies
+M83,Osteopathies and chondropathies
+M84,Osteopathies and chondropathies
+M85,Osteopathies and chondropathies
+M86,Osteopathies and chondropathies
+M87,Osteopathies and chondropathies
+M88,Osteopathies and chondropathies
+M89,Osteopathies and chondropathies
+M90,Osteopathies and chondropathies
+M91,Osteopathies and chondropathies
+M92,Osteopathies and chondropathies
+M93,Osteopathies and chondropathies
+M94,Osteopathies and chondropathies
+M95,Other disorders of the musculoskeletal system and connective tissue
+M96,Other disorders of the musculoskeletal system and connective tissue
+M97,Other disorders of the musculoskeletal system and connective tissue
+M98,Other disorders of the musculoskeletal system and connective tissue
+M99,Other disorders of the musculoskeletal system and connective tissue
+N00,Glomerular diseases
+N01,Glomerular diseases
+N02,Glomerular diseases
+N03,Glomerular diseases
+N04,Glomerular diseases
+N05,Glomerular diseases
+N06,Glomerular diseases
+N07,Glomerular diseases
+N08,Glomerular diseases
+N09,Unspecified kidney failure
+N10,Renal tubulo-interstitial diseases
+N11,Renal tubulo-interstitial diseases
+N12,Renal tubulo-interstitial diseases
+N13,Renal tubulo-interstitial diseases
+N14,Renal tubulo-interstitial diseases
+N15,Renal tubulo-interstitial diseases
+N16,Renal tubulo-interstitial diseases
+N15,Renal and ureteral calculus
+N17,Renal failure
+N18,Renal failure
+N19,Renal failure
+N20,Urolithiasis
+N21,Urolithiasis
+N22,Urolithiasis
+N23,Urolithiasis
+N24,Other disorders of kidney and ureter
+N25,Other disorders of kidney and ureter
+N26,Other disorders of kidney and ureter
+N27,Other disorders of kidney and ureter
+N28,Other disorders of kidney and ureter
+N29,Other disorders of kidney and ureter
+N30,Other diseases of urinary system
+N31,Other diseases of urinary system
+N32,Other diseases of urinary system
+N33,Other diseases of urinary system
+N34,Other diseases of urinary system
+N35,Other diseases of urinary system
+N36,Other diseases of urinary system
+N37,Other diseases of urinary system
+N38,Other diseases of urinary system
+N39,Other diseases of urinary system
+N40,Diseases of male genital organs
+N41,Diseases of male genital organs
+N42,Diseases of male genital organs
+N43,Diseases of male genital organs
+N44,Diseases of male genital organs
+N45,Diseases of male genital organs
+N46,Diseases of male genital organs
+N47,Diseases of male genital organs
+N48,Diseases of male genital organs
+N49,Diseases of male genital organs
+N50,Diseases of male genital organs
+N51,Diseases of male genital organs
+N52,Other disorders of the genitourinary system
+N53,Other disorders of the genitourinary system
+N54,Other disorders of the genitourinary system
+N55,Other disorders of the genitourinary system
+N56,Other disorders of the genitourinary system
+N57,Other disorders of the genitourinary system
+N58,Other disorders of the genitourinary system
+N59,Other disorders of the genitourinary system
+N60,Disorders of breast
+N61,Disorders of breast
+N62,Disorders of breast
+N63,Disorders of breast
+N64,Disorders of breast
+N65,Other disorders of the genitourinary system
+N66,Other disorders of the genitourinary system
+N67,Other disorders of the genitourinary system
+N68,Other disorders of the genitourinary system
+N69,Other disorders of the genitourinary system
+N70,Inflammatory diseases of female pelvic organs
+N71,Inflammatory diseases of female pelvic organs
+N72,Inflammatory diseases of female pelvic organs
+N73,Inflammatory diseases of female pelvic organs
+N74,Inflammatory diseases of female pelvic organs
+N75,Inflammatory diseases of female pelvic organs
+N76,Inflammatory diseases of female pelvic organs
+N77,Inflammatory diseases of female pelvic organs
+N78,Other disorders of the genitourinary system
+N79,Other disorders of the genitourinary system
+N80,Noninflammatory disorders of female genital tract
+N81,Noninflammatory disorders of female genital tract
+N82,Noninflammatory disorders of female genital tract
+N83,Noninflammatory disorders of female genital tract
+N84,Noninflammatory disorders of female genital tract
+N85,Noninflammatory disorders of female genital tract
+N86,Noninflammatory disorders of female genital tract
+N87,Noninflammatory disorders of female genital tract
+N88,Noninflammatory disorders of female genital tract
+N89,Noninflammatory disorders of female genital tract
+N90,Noninflammatory disorders of female genital tract
+N91,Noninflammatory disorders of female genital tract
+N92,Noninflammatory disorders of female genital tract
+N93,Noninflammatory disorders of female genital tract
+N94,Noninflammatory disorders of female genital tract
+N95,Noninflammatory disorders of female genital tract
+N96,Noninflammatory disorders of female genital tract
+N97,Noninflammatory disorders of female genital tract
+N98,Noninflammatory disorders of female genital tract
+N99,Other disorders of the genitourinary system
+CKD,Chronic Kidney Disease (CKD)
